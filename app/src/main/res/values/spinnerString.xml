@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>none</item>
+        <item>智杰</item>
+        <item>康毅</item>
+        <item>志明</item>
+        <item>蘭斯</item>
+        <item>小湘</item>
+        <item>豐瑞</item>
+        <item>小K</item>
+        <item>教練</item>
+        <item>忠遠</item>
+        <item>祐霖</item>
+        <item>祐廷</item>
+        <item>愛馬</item>
+        <item>國瑞</item>
+        <item>詩婷</item>
+        <item>乃雯</item>
+        <item>大配</item>
+        <item>俊諺</item>
+        <item>泳志</item>
+    </string-array>
+</resources>
